@@ -7,8 +7,6 @@ package org.reldb.experiments;
 import java.lang.reflect.Array;
 import java.lang.reflect.Field;
 import java.util.HashMap;
-import java.util.Set;
-import java.util.TreeSet;
 
 public class Dumper {
     private static Dumper instance = new Dumper();
